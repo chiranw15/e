@@ -20,7 +20,7 @@ namespace Vidly.Models
         [Required]
         public DateTime RealeaseDate { get; set; }
         
-        
+          
         [Required]
         public int NumberInStock { get; set; }
 
